@@ -13,3 +13,9 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+**/bin/**
+*.dblite
+extension_api.json
+demo/icon.svg.import
+**.obj
