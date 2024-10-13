@@ -9,7 +9,7 @@ script = ExtResource("1_cg1gj")
 [node name="DemoExample" type="DemoExample" parent="."]
 amplitude = 50.0
 speed = 3.0
-position = Vector2(82.8965, 1.51564)
+position = Vector2(66.1253, 62.19)
 texture = ExtResource("2_j2nuj")
 
 [connection signal="position_changed" from="DemoExample" to="." method="_on_demo_example_position_changed"]
