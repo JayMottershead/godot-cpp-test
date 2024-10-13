@@ -19,3 +19,5 @@ mono_crash.*.json
 extension_api.json
 demo/icon.svg.import
 **.obj
+
+**.pdb
